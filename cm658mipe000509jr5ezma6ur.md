@@ -2,7 +2,7 @@
 title: "关于此网站的博客搭建"
 datePublished: Mon Jan 20 2025 16:05:22 GMT+0000 (Coordinated Universal Time)
 cuid: cm658mipe000509jr5ezma6ur
-slug: 5y2a5a6i5pct5bu6
+slug: blogbuild
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737390955861/162a1625-9c76-4d2d-b048-92e741c4026c.png
 tags: 55m95auw
 
