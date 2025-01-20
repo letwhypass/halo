@@ -10,7 +10,7 @@ tags: 55m95auw
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">🪅</div>
-<div data-node-type="callout-text">此篇文章将长期更新，主要说明搭建和使用相关的问题，将自己感觉不好的地方告诉大家，如有疑问可以留言</div>
+<div data-node-type="callout-text">此篇文章将长期更新，主要说明搭建和使用相关的问题，将自己感觉不好的地方告诉大家，有问题可以联系我”whypass@whypass.top”</div>
 </div>
 
 ## 来源
