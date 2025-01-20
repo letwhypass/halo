@@ -1,6 +1,6 @@
 ---
 title: "关于此网站的博客搭建"
-datePublished: Mon Jan 20 2025 16:05:22 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Jan 20 2025 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm658mipe000509jr5ezma6ur
 slug: blogbuild
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737390955861/162a1625-9c76-4d2d-b048-92e741c4026c.png
@@ -40,6 +40,8 @@ tags: 55m95auw
 * 纯英文，官方目前不支持中文，需要有点英语基础的人才能用（或者直接翻译使用也是可以的）
     
 * 发布页面的时候，主页宣传图大部分时间显示不出来，少了点花里胡哨的东西了
+    
+* ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737391819614/a5142c29-42f6-4d79-8098-8622f7830a96.png align="center")
     
 
 ---
