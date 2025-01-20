@@ -14,4 +14,5 @@ tags: 55m95auw
     
     [零基础搭建个人博客](https://www.youtube.com/watch?v=KaQ_ZeX_Nxs)，我嘞个豆！竟然还能插入视频链接
     
-    %[https://www.youtube.com/watch?v=KaQ_ZeX_Nxs]
+
+%[https://www.youtube.com/watch?v=uOA_b2e7j04]
